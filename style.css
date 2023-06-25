@@ -59,7 +59,7 @@
 #home::before{ 
     content: "";
     position: absolute;
-    background: url('/img/F4.jpg') no-repeat center center/cover;
+    background: url('/F4.jpg') no-repeat center center/cover;
     height: 442px;
     top:0px;
     left:0px;
