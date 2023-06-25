@@ -1,5 +1,5 @@
 # .Man_fashion.com
-index.html
+
 
 phone.css
 sign_log_in.html
